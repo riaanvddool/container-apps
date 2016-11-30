@@ -8,7 +8,7 @@
         "name": "rancher-agent",
         "version": "latest",
         "location": "https://hub.docker.com/r/rancher/agent/",
-        "type": "app"
+        "type": "docker"
     }, 
     {
         "description": "GitLab is a web-based Git repository manager with code reviews, issue tracking, activity feeds and wikis.",
